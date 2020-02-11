@@ -1,0 +1,44 @@
+h1 {
+    padding: 20px;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 25px;
+    margin-left: 115px;
+    color: black;
+    background: teal;
+    width: 20%
+}
+h2 {
+    padding: 10px;
+    color: black;
+    background: teal;
+    margin-right: 300px;
+    
+}
+
+
+body {
+    background-image: url(images/canadian-dollar.png);
+    padding: 0px;
+    margin: 0px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    background-color: darkgray;
+    color: white;
+    text-align: center;
+    border-top: 8px solid #4AAAA5;
+}
+.port-image {
+    margin: 20px auto;
+    width: 200px;
+    height: 150px; 
+    margin-right: 500px;
+    
+}
